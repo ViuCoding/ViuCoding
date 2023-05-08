@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[Portfolio Page](https://vincenzocristiano.dev/)
+[Portfolio Page](https://vincenzocristiano.dev/)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vincenzo-cristiano/) 
 
 # 💻 Tech Stack:
