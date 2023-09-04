@@ -3,9 +3,6 @@
 🎯I am focusing on libraries/frameworks such as React, Vue, Next and Nuxt.<br>
 👷Currently contributing to [ita-wiki](https://github.com/IT-Academy-BCN/ita-wiki), IT Academy's group project!
 
-![](https://komarev.com/ghpvc/?username=ViuCoding)
-
-
 ## 🌐 Socials:
 [Portfolio Page](https://vincenzocristiano.dev/)<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vincenzo-cristiano/) 
