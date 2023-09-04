@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-🚴‍♂️I am always working on personal projects to improve my skill set while looking for my first opportunity in the field.<br>
+🚴‍♂️I am always working on personal projects to improve my skill set.<br>
 🎯I am focusing on libraries/frameworks such as React, Vue, Next and Nuxt.<br>
 👷Currently contributing to [ita-wiki](https://github.com/IT-Academy-BCN/ita-wiki), IT Academy's group project!
 
