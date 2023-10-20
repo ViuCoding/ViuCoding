@@ -1,4 +1,11 @@
 # 👨‍💻 About Me:
+
+I'm a Frontend Developer passionate about crafting user-centric digital experiences. My expertise includes HTML, CSS, JavaScript, React, Next and Vue.
+
+I bring a diverse background, including roles in hotels' front office and property management in Barcelona. These experiences have honed my communication, problem-solving, and attention to detail skills, which I apply to my development journey. As a seasoned 10-year professional in the hospitality business, I decided to embark on a career change to pursue my passion for Web Development.
+
+Currently, I'm immersed in an Agile team environment, building a web app using React, Typescript, and Styled Components. I'm dedicated to efficient version control and rigorous testing, employing Git Flow methodology and React Testing Library.
+
 🚴‍♂️I am always working on personal projects to improve my skill set.<br>
 🎯I am focusing on libraries/frameworks such as React, Vue, Next and Nuxt.<br>
 👷Currently contributing to [ita-wiki](https://github.com/IT-Academy-BCN/ita-wiki), IT Academy's group project!
